@@ -1,0 +1,5 @@
+Overview of the Project
+
+This project is a GUI based desktop application, which is capable of accepting two prime numbers greater than 10 and generate public and private key of RSA encryption algorithm. 
+My application also capable of getting message as user input and Generating cypher text using public key and again decrypt the cipher text back to original message by using private key. 
+This GUI application is capable of validating user inputs and generate message when user insert invalid inputs into entry fields. I am using python tkinter library for creating user interface in this project. 
